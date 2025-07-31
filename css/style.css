@@ -5,7 +5,7 @@
             padding: 0;
             place-items: center;
             background-color: #f5f5f5;
-            background-image: url('images/fondo.avif'); /* Cambia por la URL de tu imagen */
+            background-image: url('../images/fondo.avif'); /* Cambia por la URL de tu imagen */
             background-size: cover;        /* Escala la imagen para cubrir toda la pantalla */
             background-repeat: no-repeat;  /* Evita que se repita */
             background-position: center;   /* Centrada */
